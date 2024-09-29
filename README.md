@@ -3,7 +3,7 @@
   <img src="https://drive.google.com/file/d/1EZcSnspcvuKAIo2Ri9b60QqtUpdrlGwn/view?usp=drive_link" alt="Aayush Narang" width="200px" height="200px">
 </div>
 
-# <div align="center">Aayush Narang/div>
+# <div align="center">Aayush Narang</div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aayush-narang-161474200" target="_blank">LinkedIn</a> |
