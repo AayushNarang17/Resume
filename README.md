@@ -20,13 +20,22 @@
 
 ## 🚀 Experience
 
-### <div align="center">WORDPRESS DEVELOPER, FREELANCER-FIVERR </div>
+### <div align="center">IT Helpdesk, A2B CORPORATE SERVICES PTY LTD–  Mel. </div>
 
-•	Experienced in creating custom WordPress themes, modifying existing themes, and implementing custom functionality using HTML, CSS, and JavaScript.
-•	Integrated and customized WordPress plugins like Divi Builder, Elementor, Contactform, WooCommerce to extend website functionality.
-•	Developed responsive websites that adapt to different devices and screen sizes.to ensured optimal viewing experience and user interface across platforms.
-•	Identified and resolved issues, errors, and bugs during the development process.
-•	Familiarity with WordPress security best practices, including user authentication, data protection, and vulnerability assessment, to ensure websites are secure against potential threats.
+•	Assisting end users with troubleshooting and resolving technical issues related to hardware, software, and network connectivity. 
+•	Logging and documenting support requests in a ticketing system, prioritizing issues based on urgency and impact, and ensuring timely resolution of incidents.
+•	Utilize Azure Service Desk for IT service management, ensuring efficient incident handling and resource allocation.
+•	Develop and deploy SQL scripts for automated incident remediation, optimizing incident response times.
+•	Implement Azure and team viewer virtual Desktop for remote user support, ensuring seamless access to IT resources.
+•	Develop and execute SQL queries for customized performance reporting and analysis.
+•	Leverage Active Directory for managing user identities and access controls.
+•	Monitored and managed real-time alerts and incident response using PagerDuty, ensuring timely resolution of critical system issues.
+•	Analyse data packets to investigate, identify abnormalities, errors, and exception.
+•	Collaborate with development and QA teams to align API testing efforts with project timelines and goals.
+•	Execute API tests in Postman, analysing test results and identifying deviations from expected behaviour.
+•	Testing the software applications and perform sanity, functional and regression testing to ensure quality of the product.
+•	Co-ordination with Onsite and offshore team to resolve the defects.
+
 
 ### <div align="center"> SOFTWARE DEVELOPER, MEHARSOFT TECHNOLOGIES PRIVATE LIMITED </div>
 <div align="center"><em>India | March-2015- June-2017 </em></div>
